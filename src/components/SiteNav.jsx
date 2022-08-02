@@ -1,15 +1,13 @@
-import React from 'react'
+import React from "react";
 
 function SiteNav() {
   return (
     <React.Fragment>
       <div>
-        <h1>
-          will be site nav
-        </h1>
+        <h1>Butts</h1>
       </div>
     </React.Fragment>
-  )
+  );
 }
 
-export default SiteNav
+export default SiteNav;
